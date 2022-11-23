@@ -1,3 +1,4 @@
-﻿# aws-events-kds-lambda (feature-added)
+﻿# aws-events-kds-lambda (redev-in-process)
+=======
 ## Diagram
 ![diagram](diagram.jpg)
