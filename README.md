@@ -1,3 +1,3 @@
-﻿# aws-events-kds-lambda (dev-br)
+﻿# aws-events-kds-lambda (bug fixing day)
 ## Diagram
 ![diagram](diagram.jpg)
